@@ -1,3 +1,2 @@
-env.profile.val: "DEFAULT -> Tasklet Config"
-amazon.aws.accesskey: "AKIAI5NGFS3O7DCQVEEA"
-amazon.aws.secretkey: "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"
+config.profile.val: "DEFAULT -> Tasklet Config"
+server.port: "8080"
