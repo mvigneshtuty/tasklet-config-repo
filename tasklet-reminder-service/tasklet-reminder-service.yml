@@ -1,2 +1,2 @@
 env.profile.val: "DEFAULT -> Tasklet Reminder Service Config"
-server.port: "7072"
+server.port: "7300"
