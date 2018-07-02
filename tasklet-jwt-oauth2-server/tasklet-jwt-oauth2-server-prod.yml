@@ -1,0 +1,2 @@
+jwt.signing.key: "4567hprodj783"
+server.port: "9555"
